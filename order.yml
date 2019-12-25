@@ -1,2 +1,3 @@
 name: config
-test: bbbbb
+test:
+  aaa: bbbbb
